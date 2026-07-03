@@ -112,7 +112,7 @@ python app.py
 Data Science Intern @ CodeAlpha
 
 GitHub:
-https://github.com/Soyalkhan01
+https://github.com/Soyalkhan01/CodeAlpha_Task2_CarPricePrediction
 
 LinkedIn:
-(https://www.linkedin.com/in/soyal-khan-a8b2ba341)
+https://www.linkedin.com/in/soyal-khan-a8b2ba341
